@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "0": {
+      "email": "emil.io2@email.com",
+      "password": "",
+      "name": { "first": "emilio", "last": "estevez" },
+      "username": "emil.io",
+      "params": {
+        "maxIPOSpending": 250,
+        "prefRanks": [3],
+        "buyRisk": 0.05,
+        "sellRisk": 0.05,
+        "IPOcsv": false,
+        "LIVEcsv": false
+      }
+    }
+  }
+}
